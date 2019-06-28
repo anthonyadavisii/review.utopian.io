@@ -1166,7 +1166,7 @@ let questionnaire = [
       answers: [
         "Select your option",
         "I enjoyed reading this post, it was excellent.",
-        "The post was informative but I didn't enjoyed reading it.",
+        "The post was informative but I didn't enjoy reading it.",
         "I did not enjoy reading this post at all"
       ]
     },
